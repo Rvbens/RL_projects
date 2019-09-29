@@ -2,8 +2,14 @@
 
 Collection of Reinforcement Learning projects
 
-![Banana](Banana/banana.gif)
+1. [ml_agent Banana](Banana)
 
-![Reacher](Reacher/reacher.gif)
+    ![Banana](Banana/banana.gif)
 
-![Tennis](Tennis/tennis.gif)
+2. [ml_agent Reacher](Reacher)
+
+    ![Reacher](Reacher/reacher.gif)
+
+3. [ml_agent Tennis](Tennis)
+
+    ![Tennis](Tennis/tennis.gif)

@@ -1,3 +1,5 @@
 .ipynb_checkpoints
+.vscode
 Reacher/Reacher_Linux
 Banana/Banana_Linux
+*.mkv
